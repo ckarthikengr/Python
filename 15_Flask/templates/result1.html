@@ -1,0 +1,12 @@
+<html>
+
+  <body>
+    <h1>Final Result</h1>
+    <!--<p>Score: {{ results.score }}</p>
+    <p>Result: {{ results.result }}</p> -->
+    {% for key, value in results.items() %}
+    <h2>{{ key }}</h2>
+    <p>{{ value }}</p>
+    {% endfor %}
+  </body>
+</html>

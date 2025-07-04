@@ -1,0 +1,6 @@
+Flash is used to create end to end web application
+Two important 
+1) WSGI --> Web server gateway interface (Protocol is used to redirect the request from webserver to web app))
+2) Jinja 2 template engine
+
+Flash : Web framework which is created with the python pgm language
